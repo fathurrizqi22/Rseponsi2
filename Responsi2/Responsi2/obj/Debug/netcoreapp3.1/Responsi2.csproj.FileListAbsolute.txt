@@ -1,0 +1,13 @@
+E:\19.11.2757\Responsi2\Responsi2\Responsi2\bin\Debug\netcoreapp3.1\Responsi2.exe
+E:\19.11.2757\Responsi2\Responsi2\Responsi2\bin\Debug\netcoreapp3.1\Responsi2.deps.json
+E:\19.11.2757\Responsi2\Responsi2\Responsi2\bin\Debug\netcoreapp3.1\Responsi2.runtimeconfig.json
+E:\19.11.2757\Responsi2\Responsi2\Responsi2\bin\Debug\netcoreapp3.1\Responsi2.runtimeconfig.dev.json
+E:\19.11.2757\Responsi2\Responsi2\Responsi2\bin\Debug\netcoreapp3.1\Responsi2.dll
+E:\19.11.2757\Responsi2\Responsi2\Responsi2\bin\Debug\netcoreapp3.1\Responsi2.pdb
+E:\19.11.2757\Responsi2\Responsi2\Responsi2\obj\Debug\netcoreapp3.1\Responsi2.csprojAssemblyReference.cache
+E:\19.11.2757\Responsi2\Responsi2\Responsi2\obj\Debug\netcoreapp3.1\Responsi2.csproj.CoreCompileInputs.cache
+E:\19.11.2757\Responsi2\Responsi2\Responsi2\obj\Debug\netcoreapp3.1\Responsi2.AssemblyInfoInputs.cache
+E:\19.11.2757\Responsi2\Responsi2\Responsi2\obj\Debug\netcoreapp3.1\Responsi2.AssemblyInfo.cs
+E:\19.11.2757\Responsi2\Responsi2\Responsi2\obj\Debug\netcoreapp3.1\Responsi2.dll
+E:\19.11.2757\Responsi2\Responsi2\Responsi2\obj\Debug\netcoreapp3.1\Responsi2.pdb
+E:\19.11.2757\Responsi2\Responsi2\Responsi2\obj\Debug\netcoreapp3.1\Responsi2.genruntimeconfig.cache
